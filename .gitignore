@@ -1,0 +1,7 @@
+/.env/
+__pycache__/
+/word/
+/Study/skill/测试课文
+/Study/study_model/word
+/Study/study_model/.idea
+/.idea/
